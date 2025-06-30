@@ -18,13 +18,13 @@ This repository contains a collection of custom-designed PCBs for various electr
 
 ## 2️⃣ Dual Power Supply Module
 
-![Dual Supply 2D View](images/dual_supply_top.png)  
+![Dual Supply 2D View](images/dual_supply_schematic.png)  
 *2D view with LM317 and LM337 regulators.*
 
 ![Dual Supply 3D Render](images/dual_supply_3d.png)  
 *3D view showing heat sinks and connectors.*
 
-![Dual Supply Schematic](images/dual_supply_schematic.png)  
+![Dual Supply Schematic](images/dual_supply_top.png)  
 *Circuit diagram of dual linear regulator system.*
 
 > ⚡ Provides +12V and -12V (or similar) regulated outputs from a single DC source. Ideal for analog op-amp circuits and symmetric supplies.
@@ -48,13 +48,13 @@ This repository contains a collection of custom-designed PCBs for various electr
 
 ## 4️⃣ Line Follower IR Sensor Array
 
-![IR Array 2D View](images/line_follower_top.png)  
+![IR Array 2D View](images/line_follower_schematic.png)  
 *2D View showing 5 IR sensors aligned in a row.*
 
 ![IR Array 3D View](images/line_follower_3d.png)  
 *3D view with IR emitter/detector modules.*
 
-![IR Array Schematic](images/line_follower_schematic.png)  
+![IR Array Schematic](images/line_follower_top.png)  
 *Sensor connections and voltage divider setup.*
 
 > 🛣️ Infrared sensor array designed to detect black/white lines for a line follower robot. Includes analog output for smoother PID control.
